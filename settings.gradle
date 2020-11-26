@@ -1,0 +1,2 @@
+include ':appstartup'
+rootProject.name = "JetpackNotes"
