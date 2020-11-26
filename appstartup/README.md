@@ -1,8 +1,8 @@
-# App Startup
+# App Startup 
 
 
 
-[developer.android.google](https://developer.android.google.cn/topic/libraries/app-startup)
+
 
 #### 1. 添加依赖
 
@@ -72,4 +72,10 @@ tools:node="remove" 这里表示App Startup 初始化的时候不初始化需要
 AppInitializer.getInstance(this).initializeComponent(SpiderManInit::class.java)
 ```
 
+
+
+#### 参考资料
+
+1. [developer.android.google](https://developer.android.google.cn/topic/libraries/app-startup)
+2. [App Startup 可能比你想象中要简单](https://juejin.cn/post/6898738809895125006#heading-15)
 
